@@ -1,8 +1,6 @@
 # mbox2eml
 
-_version 0.80_
-
-_2020-02-09_
+_version 0.80, 2020-02-09_
 
 Splits an mbox file into a bunch of eml files, extracting some (or all) of the
 subjects and adding them to the filenames.
